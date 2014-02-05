@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shortcut Creator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="no_data">No Data</string>
+    <string name="title_activity_file_ex">Pick A File</string>
+    <string name="preference_file_key">demon_file_key</string>
+    <string name="widget_file_path">demon_file_path</string>
+    <string name="widget_file_test">demon_file_test</string>
+    <string name="app_chooser">Open this file using</string>
+    <string name="choosing">Open this file using</string>
+    <string name="config_name">Pick A File</string>
+    
+    
+
+</resources>

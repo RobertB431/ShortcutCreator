@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+    
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="72dp"
+    android:minHeight="72dp"
+    android:updatePeriodMillis="0"
+    
+    android:initialLayout="@layout/app_widget"
+    android:configure="com.demon.shortcutcreator.WidgetConfig" 
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen" >
+</appwidget-provider>
